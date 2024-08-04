@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_favourites.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_home.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_home.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_fav_filled.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_fav_filled.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_fav_unfilled.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_fav_unfilled.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_add_border.xml.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/add_border.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_shop.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_shop.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_activity_network.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/activity_network.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_cart.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.globshop.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_profile.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_fav.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_fav.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_dummy_image.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/dummy_image.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_in_left.xml.flat",
+        "source": "com.example.globshop.app-main-44:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_profile.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_profile.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_shop.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/menu_main_bottom_nav_menu.xml.flat",
+        "source": "com.example.globshop.app-main-44:/menu/main_bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_product_item_design.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/product_item_design.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_cart.png.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_cart.png"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_item_fav_fab_bg.xml.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/item_fav_fab_bg.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/drawable_item_feature_tag_bg.xml.flat",
+        "source": "com.example.globshop.app-main-44:/drawable/item_feature_tag_bg.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_home.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_out_right.xml.flat",
+        "source": "com.example.globshop.app-main-44:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/navigation_main_bottom_nav_graph.xml.flat",
+        "source": "com.example.globshop.app-main-44:/navigation/main_bottom_nav_graph.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_in_right.xml.flat",
+        "source": "com.example.globshop.app-main-44:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_out_left.xml.flat",
+        "source": "com.example.globshop.app-main-44:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_product_details.xml.flat",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_product_details.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "com.example.globshop.app-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.globshop.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

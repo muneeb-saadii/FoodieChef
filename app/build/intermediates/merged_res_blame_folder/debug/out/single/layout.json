@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/activity_network.xml",
+        "source": "com.example.globshop.app-main-44:/layout/activity_network.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/fragment_cart.xml",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/fragment_home.xml",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/product_item_design.xml",
+        "source": "com.example.globshop.app-main-44:/layout/product_item_design.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/fragment_favourites.xml",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/fragment_profile.xml",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/fragment_product_details.xml",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_product_details.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/fragment_shop.xml",
+        "source": "com.example.globshop.app-main-44:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.example.globshop.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.example.globshop.app-main-44:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appTheme_black">#222222</color>
+    <color name="appTheme_error">#F01F0E</color>
+    <color name="appTheme_events">#DB3022</color>
+    <color name="appTheme_gray">#9B9B9B</color>
+    <color name="appTheme_primary">#DB3022</color>
+    <color name="appTheme_success">#2AA952</color>
+    <color name="appTheme_white_300">#F9F9F9</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">GlobShop</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_shop">Shop</string>
+    <style name="Base.Theme.GlobShop" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GlobShop" parent="Base.Theme.GlobShop"/>
+</resources>
