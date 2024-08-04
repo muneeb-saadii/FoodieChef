@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.globshop"
-    compileSdk = 33
+    namespace = "com.app.chef"
+    compileSdkVersion(rootProject.extra["compileSdkVersion"] as Int)
 
     defaultConfig {
-        applicationId = "com.example.globshop"
-        minSdk = 24
-        targetSdk = 33
+        applicationId = "com.app.chef"
+        minSdkVersion(rootProject.extra["defaultMinSdkVersion"] as Int)
+        targetSdkVersion(rootProject.extra["defaultTargetSdkVersion"] as Int)
         versionCode = 1
         versionName = "1.0"
 
@@ -29,6 +29,7 @@ android {
     }
     buildFeatures{
         viewBinding = true
+        dataBinding = true
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
@@ -43,8 +44,11 @@ dependencies {
 
     implementation("androidx.core:core-ktx:1.8.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("androidx.viewpager2:viewpager2:1.0.0")
     implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+
+    // JUnit - Espresso
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
@@ -64,7 +68,7 @@ dependencies {
     kapt("androidx.room:room-compiler:2.5.0")
     implementation("androidx.room:room-testing:2.5.1")
 
-    // coroutines - light weight threads
+    // Coroutines - light weight threads
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:x.x.x")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:x.x.x")
 

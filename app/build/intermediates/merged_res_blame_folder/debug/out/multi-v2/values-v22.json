@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.globshop.app-mergeDebugResources-40:/values-v22/values-v22.xml",
+            "outputFile": "com.app.chef.app-mergeDebugResources-47:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\technifi\\.gradle\\caches\\transforms-3\\0917f31f8aa34154a9a5293a1e120b7d\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\technifi\\.gradle\\caches\\transforms-3\\26c911d3cf93a7c0e4fcf2c49b0a758c\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

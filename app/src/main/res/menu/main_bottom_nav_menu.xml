@@ -12,9 +12,9 @@
         android:icon="@drawable/ic_nav_shop"
         />
     <item
-        android:id="@+id/cartFragment"
-        android:title="@string/nav_cart"
-        android:icon="@drawable/ic_nav_cart"
+        android:id="@+id/newItemFragment"
+        android:title=""
+        android:enabled="false"
         />
     <item
         android:id="@+id/favouritesFragment"

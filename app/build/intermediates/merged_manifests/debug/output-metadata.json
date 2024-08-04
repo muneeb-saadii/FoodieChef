@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.globshop",
+  "applicationId": "com.app.chef",
   "variantName": "debug",
   "elements": [
     {

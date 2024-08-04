@@ -1,170 +1,222 @@
 [
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_fragment_shop.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\fragment_shop.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_favourites.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/fragment_favourites.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_home.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_home.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_fragment_product_details.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\fragment_product_details.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_fav_filled.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_fav_filled.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\navigation_main_bottom_nav_graph.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\navigation\\main_bottom_nav_graph.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_fav_unfilled.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_fav_unfilled.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_add_border.xml.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/add_border.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\splash.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_item_fav_fab_bg.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\item_fav_fab_bg.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-45:\\drawable-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_shop.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_shop.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\anim\\slide_in_right.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\fragment_cart.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\anim\\slide_out_left.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_activity_network.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/activity_network.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_nav_home.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_nav_home.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_cart.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/fragment_cart.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.globshop.app-main-44:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_nav_shop.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_nav_shop.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_profile.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/fragment_profile.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-45:\\drawable-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_fav.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_fav.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_dummy_image.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/dummy_image.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-45:\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_fav_unfilled.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_fav_unfilled.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_nav_profile.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_nav_profile.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_in_left.xml.flat",
-        "source": "com.example.globshop.app-main-44:/anim/slide_in_left.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_product_item_design.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\product_item_design.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_profile.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_profile.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_dummy_image.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\dummy_image.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_shop.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/fragment_shop.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_fragment_new_item.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\fragment_new_item.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/menu_main_bottom_nav_menu.xml.flat",
-        "source": "com.example.globshop.app-main-44:/menu/main_bottom_nav_menu.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_product_item_design.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/product_item_design.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-45:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_activity_launcher.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\activity_launcher.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_ic_nav_cart.png.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/ic_nav_cart.png"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_add_border.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\add_border.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_item_fav_fab_bg.xml.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/item_fav_fab_bg.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_activity_on_boarding.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\activity_on_boarding.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/drawable_item_feature_tag_bg.xml.flat",
-        "source": "com.example.globshop.app-main-44:/drawable/item_feature_tag_bg.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-45:\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_home.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_item_onboarding.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\item_onboarding.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_out_right.xml.flat",
-        "source": "com.example.globshop.app-main-44:/anim/slide_out_right.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-45:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/navigation_main_bottom_nav_graph.xml.flat",
-        "source": "com.example.globshop.app-main-44:/navigation/main_bottom_nav_graph.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\anim\\slide_out_right.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_in_right.xml.flat",
-        "source": "com.example.globshop.app-main-44:/anim/slide_in_right.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_nav_fav.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_nav_fav.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_activity_main.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/activity_main.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_fav_filled.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_fav_filled.png"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/anim_slide_out_left.xml.flat",
-        "source": "com.example.globshop.app-main-44:/anim/slide_out_left.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_fragment_favourites.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\fragment_favourites.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/layout_fragment_product_details.xml.flat",
-        "source": "com.example.globshop.app-main-44:/layout/fragment_product_details.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\menu_main_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\menu\\main_bottom_nav_menu.xml"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/xml_backup_rules.xml.flat",
-        "source": "com.example.globshop.app-main-44:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.globshop.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.globshop.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.app.chef.app-merged_res-49:/layout_activity_launcher.xml.flat",
+        "source": "com.app.chef.app-main-51:/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_item_feature_tag_bg.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\item_feature_tag_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_add_fab.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_add_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\layout_activity_network.xml.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\layout\\activity_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-45:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\drawable_ic_nav_cart.png.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\drawable\\ic_nav_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
     }
 ]
