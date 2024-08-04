@@ -15,6 +15,24 @@
     <color name="appTheme_primary_1">#FFA167</color>
     <color name="appTheme_black">#222222</color>
     <color name="appTheme_gray">#9B9B9B</color>
+    <color name="appTheme_gray_txt">#A0A5BA</color>
+    <color name="appTheme_accent">#121223</color>
+    <color name="appTheme_blue">#BEEBFF</color>
+    <color name="appTheme_light_blue">#F0F5FA</color>
+
+    <color name="textview_primary">#FF7622</color>
+    <color name="textview_primary_light">#FFA167</color>
+    <color name="textview_secondary_light">@color/white</color>
+    <color name="textview_secondary_dark">@color/black</color>
+    <color name="textview_accent_light">#F0F5FA</color>
+    <color name="textview_accent_medium">#B4B9CA</color>
+    <color name="textview_accent_dark">#A0A5BA</color>
+
+    <color name="edittext_hint">#A0A5BA</color>
+    <color name="edittext_text">#32343E</color>
+    <color name="edittext_back">#F0F5FA</color>
+    <color name="edittext_ic_eye">#B4B9CA</color>
+
     <!--    for backgrounds-->
     <color name="appTheme_white_300">#F9F9F9</color>
 
@@ -26,7 +44,6 @@
     <color name="appTheme_success">#2AA952</color>
     <color name="light_blue_600">#FF039BE5</color>
     <color name="light_blue_900">#FF01579B</color>
-    <color name="light_blue_A200">#FF40C4FF</color>
     <color name="light_blue_A400">#FF00B0FF</color>
     <color name="black_overlay">#66000000</color>
 </resources>

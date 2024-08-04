@@ -23,7 +23,8 @@ class LauncherActivity : AppCompatActivity() {
         )
 
         Handler(Looper.getMainLooper()).postDelayed({
-            startActivity(Intent(this, OnBoardingsActivity::class.java))
+//            startActivity(Intent(this, OnBoardingsActivity::class.java))
+            startActivity(Intent(this, LoginSignupActivity::class.java))
             finish()
         }, 3000) // 3 seconds delayed time
     }

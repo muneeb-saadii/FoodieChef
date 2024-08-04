@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [androidx.databinding:databinding-adapters:8.1.0] C:\Users\technifi\.gradle\caches\transforms-3\347ba31e7286f5b82d0cce8d65a03b7b\transformed\databinding-adapters-8.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.1.0] C:\Users\technifi\.gradle\caches\transforms-3\50f15dccf3f89ccb4e926bd4f89c27a1\transformed\databinding-ktx-8.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.1.0] C:\Users\technifi\.gradle\caches\transforms-3\cb35fc3c11c4a020996c8395dd84dbcd\transformed\databinding-runtime-8.1.0\AndroidManifest.xml:2:1-7:12
@@ -87,8 +87,8 @@ ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidMani
 	android:name
 		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:7:5-37:19
-INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:7:5-37:19
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:7:5-39:19
+INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:7:5-39:19
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\technifi\.gradle\caches\transforms-3\676a4f33d6bbbcf95f2fe1bac76accc4\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\technifi\.gradle\caches\transforms-3\676a4f33d6bbbcf95f2fe1bac76accc4\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\technifi\.gradle\caches\transforms-3\dec4614628d7a9d2a5f1f5197247ace1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -133,42 +133,48 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\technifi\.gradle\c
 		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:15:9-54
 	android:dataExtractionRules
 		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.app.chef.ui.activities.LoginSignupActivity
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:18:13-62
 activity#com.app.chef.ui.activities.LauncherActivity
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:17:9-27:20
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:20:9-29:20
 	android:exported
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:19:13-36
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:22:13-36
 	android:theme
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:20:13-53
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:23:13-53
 	android:name
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:18:13-59
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:21:13-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.app.chef.ui.activities.OnBoardingsActivity
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:28:9-30:40
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:30:13-37
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:29:13-62
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:31:13-62
 activity#com.app.chef.ui.activities.NetworkActivity
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:31:9-33:40
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:33:9-35:40
 	android:exported
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:32:13-58
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:34:13-58
 activity#com.app.chef.ui.activities.MainActivity
-ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:34:9-36:39
+ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:36:9-38:40
 	android:exported
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:36:13-37
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:35:13-55
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:37:13-55
 uses-sdk
 INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml

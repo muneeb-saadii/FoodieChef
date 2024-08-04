@@ -45,7 +45,7 @@ class OnBoardingsActivity : AppCompatActivity() {
         }
         binding.nextBtn.setOnClickListener {
             if (binding.onboarding.currentItem == list.lastIndex) {
-                startActivity(Intent(applicationContext, MainActivity::class.java))
+                startActivity(Intent(applicationContext, LoginSignupActivity::class.java))
             } else {
                 binding.onboarding.currentItem++
                 obAdapter.notifyDataSetChanged()

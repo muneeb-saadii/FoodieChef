@@ -17,7 +17,7 @@
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor">@color/appTheme_accent</item>
         <!-- Customize your theme here. -->
     </style>
 
@@ -48,6 +48,7 @@
     <style name="Theme.Chef.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/appTheme_accent</item>
     </style>
 
     <style name="Theme.Chef.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
