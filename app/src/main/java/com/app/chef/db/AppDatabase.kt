@@ -6,8 +6,8 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.app.chef.models.products.ProductsResponseItem
-import com.app.chef.utils.Constants
-import com.app.chef.utils.Constants.Companion.ROOM_DB_NAME
+import com.app.chef.core.utils.Constants
+import com.app.chef.core.utils.Constants.Companion.ROOM_DB_NAME
 
 
 

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45644848047",
+    "project_id": "foodiechef-8363b",
+    "storage_bucket": "foodiechef-8363b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45644848047:android:338145cebac33f02806d5a",
+        "android_client_info": {
+          "package_name": "com.app.chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45644848047-kj0h96phoenen03han9u658m9lqg9hqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chef",
+            "certificate_hash": "020d83d27aa4f77f0799598186b25fb9375d24e7"
+          }
+        },
+        {
+          "client_id": "45644848047-tvahp4cgjnucnoi3g0fj9e4pjkd8b6ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM88lx9jvMe69pD6j9nHmWd6lgHi0bm94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45644848047-tvahp4cgjnucnoi3g0fj9e4pjkd8b6ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,58 +1,58 @@
 [
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/fragment_shop.xml",
-        "source": "com.app.chef.app-main-51:/layout/fragment_shop.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/layout_otp_six_digits.xml",
+        "source": "com.app.chef.app-main-63:/layout/layout_otp_six_digits.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/fragment_favourites.xml",
-        "source": "com.app.chef.app-main-51:/layout/fragment_favourites.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/fragment_product_details.xml",
+        "source": "com.app.chef.app-main-63:/layout/fragment_product_details.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/item_onboarding.xml",
-        "source": "com.app.chef.app-main-51:/layout/item_onboarding.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/item_onboarding.xml",
+        "source": "com.app.chef.app-main-63:/layout/item_onboarding.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/fragment_profile.xml",
-        "source": "com.app.chef.app-main-51:/layout/fragment_profile.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/layout_double_card_layout.xml",
+        "source": "com.app.chef.app-main-63:/layout/layout_double_card_layout.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/fragment_new_item.xml",
-        "source": "com.app.chef.app-main-51:/layout/fragment_new_item.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/fragment_profile.xml",
+        "source": "com.app.chef.app-main-63:/layout/fragment_profile.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/product_item_design.xml",
-        "source": "com.app.chef.app-main-51:/layout/product_item_design.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/fragment_new_item.xml",
+        "source": "com.app.chef.app-main-63:/layout/fragment_new_item.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/design_double_card_layout.xml",
-        "source": "com.app.chef.app-main-51:/layout/design_double_card_layout.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/product_item_design.xml",
+        "source": "com.app.chef.app-main-63:/layout/product_item_design.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/fragment_product_details.xml",
-        "source": "com.app.chef.app-main-51:/layout/fragment_product_details.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/activity_main.xml",
+        "source": "com.app.chef.app-main-63:/layout/activity_main.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/activity_launcher.xml",
-        "source": "com.app.chef.app-main-51:/layout/activity_launcher.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/activity_launcher.xml",
+        "source": "com.app.chef.app-main-63:/layout/activity_launcher.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/activity_on_boarding.xml",
-        "source": "com.app.chef.app-main-51:/layout/activity_on_boarding.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/activity_on_boarding.xml",
+        "source": "com.app.chef.app-main-63:/layout/activity_on_boarding.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/activity_main.xml",
-        "source": "com.app.chef.app-main-51:/layout/activity_main.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/fragment_favourites.xml",
+        "source": "com.app.chef.app-main-63:/layout/fragment_favourites.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/activity_login_signup.xml",
-        "source": "com.app.chef.app-main-51:/layout/activity_login_signup.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/activity_login_signup.xml",
+        "source": "com.app.chef.app-main-63:/layout/activity_login_signup.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/fragment_home.xml",
-        "source": "com.app.chef.app-main-51:/layout/fragment_home.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/fragment_shop.xml",
+        "source": "com.app.chef.app-main-63:/layout/fragment_shop.xml"
     },
     {
-        "merged": "com.app.chef.app-mergeDebugResources-48:/layout/activity_network.xml",
-        "source": "com.app.chef.app-main-51:/layout/activity_network.xml"
+        "merged": "com.app.chef.app-mergeDebugResources-60:/layout/fragment_home.xml",
+        "source": "com.app.chef.app-main-63:/layout/fragment_home.xml"
     }
 ]

@@ -9,10 +9,10 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.app.chef.R
 import com.app.chef.adapters.ProductsRecycAdapter
 import com.app.chef.databinding.FragmentHomeBinding
-import com.app.chef.ui.activities.MainActivity
+import com.app.chef.MainActivity
 import com.app.chef.ui.viewmodels.ProductViewModel
-import com.app.chef.utils.Resource
-import com.app.chef.utils.TAGS
+import com.app.chef.core.utils.Resource
+import com.app.chef.core.utils.TAGS
 
 class HomeFragment: Fragment(R.layout.fragment_home){
 

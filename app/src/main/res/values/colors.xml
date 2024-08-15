@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="transparent">#00000000</color>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
     <color name="lavender">#8692f7</color>
+
+    <!--    for backgrounds-->
+    <color name="appTheme_secondary_dark">#222222</color>
+    <color name="appTheme_secondary_light">#F9F9F9</color>
 
     <!--    theme colors-->
     <color name="appTheme_primary">#FF7622</color>
-    <color name="appTheme_primary_1">#FFA167</color>
-    <color name="appTheme_black">#222222</color>
-    <color name="appTheme_gray">#9B9B9B</color>
-    <color name="appTheme_gray_txt">#A0A5BA</color>
+    <color name="appTheme_primary_light">#FFA167</color>
+    <color name="appTheme_accent_light">#9B9B9B</color>
     <color name="appTheme_accent">#121223</color>
-    <color name="appTheme_blue">#BEEBFF</color>
-    <color name="appTheme_light_blue">#F0F5FA</color>
 
     <color name="textview_primary">#FF7622</color>
     <color name="textview_primary_light">#FFA167</color>
@@ -33,8 +32,6 @@
     <color name="edittext_back">#F0F5FA</color>
     <color name="edittext_ic_eye">#B4B9CA</color>
 
-    <!--    for backgrounds-->
-    <color name="appTheme_white_300">#F9F9F9</color>
 
     <!--    sales | new | hot offer-->
     <color name="appTheme_events">#FF680C</color>
@@ -42,8 +39,14 @@
     <!--    actions error/success-->
     <color name="appTheme_error">#F01F0E</color>
     <color name="appTheme_success">#2AA952</color>
+
+<!--    unused till now -->
     <color name="light_blue_600">#FF039BE5</color>
     <color name="light_blue_900">#FF01579B</color>
     <color name="light_blue_A400">#FF00B0FF</color>
     <color name="black_overlay">#66000000</color>
+    <color name="appTheme_gray_txt">#A0A5BA</color>
+    <color name="appTheme_blue">#BEEBFF</color>
+    <color name="appTheme_light_blue">#F0F5FA</color>
+
 </resources>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.app.chef.app-mergeDebugResources-47:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.app.chef.app-mergeDebugResources-59:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\technifi\\.gradle\\caches\\transforms-3\\676a4f33d6bbbcf95f2fe1bac76accc4\\transformed\\material-1.9.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\technifi\\.gradle\\caches\\transforms-3\\52463313486c6b097016caca7af5a91f\\transformed\\material-1.9.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

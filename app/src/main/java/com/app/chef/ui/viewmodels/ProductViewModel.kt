@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.app.chef.models.products.ProductsResponse
 import com.app.chef.repository.ProductsRepository
-import com.app.chef.utils.Resource
+import com.app.chef.core.utils.Resource
 import kotlinx.coroutines.launch
 import retrofit2.Response
 
@@ -27,7 +27,7 @@ class ProductViewModel(
         productsData.postValue(handleNetRequestResponse(response))
     }
 
-    private fun handleNetRequestResponse(response: Response<ProductsResponse>): Resource<ProductsResponse>{
+    private fun handleNetRequestResponse(response: Response<ProductsResponse>): Resource<ProductsResponse> {
         if(response.isSuccessful){
             response.body()?.let {
                 return Resource.Success(it)

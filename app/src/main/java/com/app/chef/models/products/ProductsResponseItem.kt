@@ -1,8 +1,9 @@
 package com.app.chef.models.products
 
+
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.app.chef.utils.Constants
+import com.app.chef.core.utils.Constants
 
 
 @Entity(tableName = Constants.PRODUCTS_TABLE_NAME)

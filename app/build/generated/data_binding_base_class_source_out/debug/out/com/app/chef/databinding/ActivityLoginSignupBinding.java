@@ -7,17 +7,25 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.fragment.app.FragmentContainerView;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.app.chef.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityLoginSignupBinding implements ViewBinding {
   @NonNull
   private final LinearLayout rootView;
 
-  private ActivityLoginSignupBinding(@NonNull LinearLayout rootView) {
+  @NonNull
+  public final FragmentContainerView authNavHostFrag;
+
+  private ActivityLoginSignupBinding(@NonNull LinearLayout rootView,
+      @NonNull FragmentContainerView authNavHostFrag) {
     this.rootView = rootView;
+    this.authNavHostFrag = authNavHostFrag;
   }
 
   @Override
@@ -43,10 +51,19 @@ public final class ActivityLoginSignupBinding implements ViewBinding {
 
   @NonNull
   public static ActivityLoginSignupBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.authNavHostFrag;
+      FragmentContainerView authNavHostFrag = ViewBindings.findChildViewById(rootView, id);
+      if (authNavHostFrag == null) {
+        break missingId;
+      }
 
-    return new ActivityLoginSignupBinding((LinearLayout) rootView);
+      return new ActivityLoginSignupBinding((LinearLayout) rootView, authNavHostFrag);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }
