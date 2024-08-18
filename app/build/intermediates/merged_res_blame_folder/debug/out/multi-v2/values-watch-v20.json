@@ -4,7 +4,7 @@
             "outputFile": "com.app.chef.app-mergeDebugResources-59:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\technifi\\.gradle\\caches\\transforms-3\\292cc08be1d4d6a6f83cc9a315703aa7\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\technifi\\.gradle\\caches\\transforms-3\\1370687fb268bc1f69e46d7983c12d38\\transformed\\play-services-auth-21.2.0\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

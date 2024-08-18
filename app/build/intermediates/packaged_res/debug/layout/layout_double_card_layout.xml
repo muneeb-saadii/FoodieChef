@@ -37,7 +37,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textStyle="bold"
-                    android:textSize="22sp"
+                    android:textSize="24sp"
                     android:text="Log In"
                     android:textColor="@color/textview_secondary_light"
                     />
@@ -340,7 +340,7 @@
                             android:id="@+id/forgetPassTxt"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:textSize="16sp"
+                            android:textSize="14sp"
                             android:text="Forgot Password"
                             android:maxLines="1"
                             android:textColor="@color/textview_primary"

@@ -25,7 +25,7 @@ class LauncherActivity : AppCompatActivity() {
             WindowManager.LayoutParams.FLAG_FULLSCREEN
         )
 
-//        getAllColors()
+        getAllColors()
 
         Handler(Looper.getMainLooper()).postDelayed({
 //            startActivity(Intent(this, OnBoardingsActivity::class.java))

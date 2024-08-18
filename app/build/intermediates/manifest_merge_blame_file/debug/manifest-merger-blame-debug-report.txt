@@ -403,38 +403,38 @@
 213-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\technifi\.gradle\caches\transforms-3\aff4754298d45b6910cb290977423ae0\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
 214        </activity>
 215        <activity
-215-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+215-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:23:9-27:75
 216            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-216-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+216-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:24:13-93
 217            android:excludeFromRecents="true"
-217-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+217-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:25:13-46
 218            android:exported="false"
-218-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+218-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:26:13-37
 219            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-219-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+219-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:27:13-72
 220        <!--
 221            Service handling Google Sign-In user revocation. For apps that do not integrate with
 222            Google Sign-In, this service will never be started.
 223        -->
 224        <service
-224-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+224-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:33:9-37:51
 225            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-225-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+225-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:34:13-89
 226            android:exported="true"
-226-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+226-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:35:13-36
 227            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-227-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+227-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:36:13-107
 228            android:visibleToInstantApps="true" />
-228-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\technifi\.gradle\caches\transforms-3\292cc08be1d4d6a6f83cc9a315703aa7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+228-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\technifi\.gradle\caches\transforms-3\1370687fb268bc1f69e46d7983c12d38\transformed\play-services-auth-21.2.0\AndroidManifest.xml:37:13-48
 229
 230        <activity
-230-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\technifi\.gradle\caches\transforms-3\4bcd86764888974925027f22c02b3f5e\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+230-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\technifi\.gradle\caches\transforms-3\425ff0ca54ffb94c86f1f1acfc4d1df5\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
 231            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-231-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\technifi\.gradle\caches\transforms-3\4bcd86764888974925027f22c02b3f5e\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+231-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\technifi\.gradle\caches\transforms-3\425ff0ca54ffb94c86f1f1acfc4d1df5\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:19-85
 232            android:exported="false"
-232-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\technifi\.gradle\caches\transforms-3\4bcd86764888974925027f22c02b3f5e\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+232-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\technifi\.gradle\caches\transforms-3\425ff0ca54ffb94c86f1f1acfc4d1df5\transformed\play-services-base-18.3.0\AndroidManifest.xml:22:19-43
 233            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-233-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\technifi\.gradle\caches\transforms-3\4bcd86764888974925027f22c02b3f5e\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+233-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\technifi\.gradle\caches\transforms-3\425ff0ca54ffb94c86f1f1acfc4d1df5\transformed\play-services-base-18.3.0\AndroidManifest.xml:21:19-78
 234
 235        <receiver
 235-->[com.google.android.gms:play-services-measurement:22.0.2] C:\Users\technifi\.gradle\caches\transforms-3\e0aded73d3f86b42de1ce55b1b3bfc86\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:29:9-33:20

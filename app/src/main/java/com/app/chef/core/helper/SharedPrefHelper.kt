@@ -7,9 +7,6 @@ class SharedPrefHelper(val mContext: Context) {
 
     private val PREFS_NAME: String = "MyApp"
 
-    companion object {
-        const val PREFS_NAME: String = "MyApp"
-    }
 
     fun saveColorUtils(map: HashMap<String, String>) {
         val sharedPreferences = mContext.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)

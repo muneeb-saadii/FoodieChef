@@ -10,8 +10,11 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
 import androidx.core.widget.doOnTextChanged
+import androidx.lifecycle.Observer
 import androidx.navigation.fragment.findNavController
 import com.app.chef.R
+import com.app.chef.core.utils.Resource
+import com.app.chef.core.utils.TAGS
 import com.app.chef.databinding.LayoutDoubleCardLayoutBinding
 import com.app.chef.databinding.LayoutOtpSixDigitsBinding
 import com.app.chef.features.auth.presentation.base.AuthBaseFrag
@@ -55,7 +58,7 @@ class ForgetPassFragment: AuthBaseFrag() {
 
             b.titleTxt.text = "Reset Password"
             b.sloganTxt.text = "Enter email to get reset link"
-            b.tvType1.text = "Send Code"
+            b.tvType1.text = "Reset Password"
             b.signupOptnArea.visibility = View.GONE
             b.operationArea.visibility = View.GONE
             b.field1Area.visibility = View.GONE
@@ -83,11 +86,41 @@ class ForgetPassFragment: AuthBaseFrag() {
         b.res = res
         b.tvType1.setOnClickListener {
             if(!isOtpView){
-                configViews(true)
-                return@setOnClickListener
+                if(b.etField2.text.toString().isNotEmpty()){
+                    viewModel.resetLinkToMail(b.etField2.text.toString())
+                }
+//                configViews(true)
             }
-            findNavController().popBackStack()
+//            findNavController().popBackStack()
         }
+
+
+        viewModel.resetPassResult.observe(viewLifecycleOwner, Observer { response ->
+
+            when(response){
+                is Resource.Loading -> {
+//                    showProgressBar()
+                }
+                is Resource.Success -> {
+//                    hideProgressBar()
+                    Log.e(TAGS.API_SUCCESS, "Response: $response ${response::class.simpleName}")
+                    response.data?.let { msg ->
+                        Log.e(TAGS.API_SUCCESS, "Response: ${response.data}")
+                        myApp.showToast(msg)
+                        findNavController().popBackStack()
+                    }
+                }
+                is Resource.Error -> {
+//                    hideProgressBar()
+                    Log.e(TAGS.API_ERR, "An error occurred: $response ${response::class.simpleName}")
+                    response?.let { it ->
+                        Log.e(TAGS.API_ERR, "An error occurred: ${it.message}")
+                        myApp.showToast(it.message.toString())
+                        findNavController().popBackStack()
+                    }
+                }
+            }
+        })
     }
 
 

@@ -88,5 +88,6 @@ dependencies {
     implementation("com.google.firebase:firebase-messaging")
     implementation("com.google.firebase:firebase-config")
     implementation("com.google.firebase:firebase-storage")
+    implementation("com.google.android.gms:play-services-auth:21.2.0")
 //    implementation("com.google.firebase:firebase-crashlytics")
 }

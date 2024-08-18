@@ -5,4 +5,6 @@
     <string name="nav_shop">Shop</string>
     <string name="nav_favourites">Favourites</string>
     <string name="nav_profile">Profile</string>
+
+    <string name="default_web_client_id">45644848047-tvahp4cgjnucnoi3g0fj9e4pjkd8b6ht.apps.googleusercontent.com</string>
 </resources>
