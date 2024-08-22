@@ -18,6 +18,7 @@ import com.app.chef.databinding.LayoutDoubleCardLayoutBinding
 import com.app.chef.features.auth.presentation.base.AuthenticationsActivity
 import com.app.chef.features.auth.presentation.base.AuthBaseFrag
 import com.app.chef.features.auth.data.AuthViewModel
+import com.app.chef.features.dashboard.presentation.MainActivity
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.android.gms.common.api.ApiException
@@ -106,7 +107,8 @@ class SigninFragment: AuthBaseFrag() {
                     response.data?.let { msg ->
                         Log.e(TAGS.API_SUCCESS, "Response: ${response.data}")
                         myApp.showToast(msg)
-                        // findNavController().navigate(R.id.action_signupFragment_to_signinFragment)
+                        startActivity(Intent(requireActivity(), MainActivity::class.java))
+                        activity?.finishAffinity()
                     }
                 }
                 is Resource.Error -> {
@@ -119,7 +121,6 @@ class SigninFragment: AuthBaseFrag() {
                 }
             }
         })
-
         viewModel.googleLoginResult.observe(viewLifecycleOwner, Observer { response ->
             when(response){
                 is Resource.Loading -> {
@@ -131,7 +132,8 @@ class SigninFragment: AuthBaseFrag() {
                     response?.let { it ->
                         Log.e(TAGS.API_SUCCESS, "Response: ${response.data}")
                         myApp.showToast(it.data!!)
-                        // findNavController().navigate(R.id.action_signupFragment_to_signinFragment)
+                        startActivity(Intent(requireActivity(), MainActivity::class.java))
+                        activity?.finishAffinity()
                     }
                 }
                 is Resource.Error -> {

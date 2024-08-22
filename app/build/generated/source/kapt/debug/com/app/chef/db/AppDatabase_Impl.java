@@ -98,7 +98,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         final TableInfo _infoProducts = new TableInfo("products", _columnsProducts, _foreignKeysProducts, _indicesProducts);
         final TableInfo _existingProducts = TableInfo.read(_db, "products");
         if (! _infoProducts.equals(_existingProducts)) {
-          return new RoomOpenHelper.ValidationResult(false, "products(com.app.chef.models.products.ProductsResponseItem).\n"
+          return new RoomOpenHelper.ValidationResult(false, "products(com.app.chef.features.itemdetails.domain.model.product.ProductsResponseItem).\n"
                   + " Expected:\n" + _infoProducts + "\n"
                   + " Found:\n" + _existingProducts);
         }

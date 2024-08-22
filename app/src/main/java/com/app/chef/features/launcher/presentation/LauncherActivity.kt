@@ -10,6 +10,7 @@ import android.view.WindowManager
 import com.app.chef.core.helper.SharedPrefHelper
 import com.app.chef.databinding.ActivityLauncherBinding
 import com.app.chef.features.auth.presentation.base.AuthenticationsActivity
+import com.app.chef.features.onboard.presentation.OnBoardingsActivity
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.firebase.remoteconfig.FirebaseRemoteConfigSettings
 
@@ -28,8 +29,8 @@ class LauncherActivity : AppCompatActivity() {
         getAllColors()
 
         Handler(Looper.getMainLooper()).postDelayed({
-//            startActivity(Intent(this, OnBoardingsActivity::class.java))
-            startActivity(Intent(this, AuthenticationsActivity::class.java))
+            startActivity(Intent(this, OnBoardingsActivity::class.java))
+//            startActivity(Intent(this, AuthenticationsActivity::class.java))
             finish()
         }, 3000) // 3 seconds delayed
     }

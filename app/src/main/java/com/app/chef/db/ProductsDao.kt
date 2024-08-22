@@ -6,7 +6,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.app.chef.models.products.ProductsResponseItem
+import com.app.chef.features.itemdetails.domain.model.product.ProductsResponseItem
 import com.app.chef.core.utils.Constants.Companion.PRODUCTS_TABLE_NAME
 
 @Dao

@@ -164,10 +164,6 @@
         "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.app.chef.app-merged_res-61:/layout_layout_double_card_layout.xml.flat",
-        "source": "com.app.chef.app-main-63:/layout/layout_double_card_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-61:\\layout_layout_double_card_layout.xml.flat",
         "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-main-63:\\layout\\layout_double_card_layout.xml"
     },
@@ -182,6 +178,10 @@
     {
         "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-61:\\drawable-ldpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-pngs-56:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.app.chef.app-merged_res-61:/navigation_main_bottom_nav_graph.xml.flat",
+        "source": "com.app.chef.app-main-63:/navigation/main_bottom_nav_graph.xml"
     },
     {
         "merged": "C:\\Users\\technifi\\.gradle\\daemon\\8.0\\com.app.chef.app-merged_res-61:\\drawable_ic_nav_shop.png.flat",

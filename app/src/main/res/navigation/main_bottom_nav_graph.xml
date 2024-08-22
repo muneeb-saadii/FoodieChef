@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.app.chef.ui.fragments.HomeFragment"
+        android:name="com.app.chef.features.dashboard.presentation.screens.DashboardFragment"
         android:label="HomeFragment">
         <action
             android:id="@+id/action_homeFragment_to_productDetailsFragment"
@@ -19,7 +19,7 @@
     </fragment>
     <fragment
         android:id="@+id/favouritesFragment"
-        android:name="com.app.chef.ui.fragments.FavouritesFragment"
+        android:name="com.app.chef.features.foodlist.presentation.FoodListFragment"
         android:label="FavouritesFragment" >
         <action
             android:id="@+id/action_favouritesFragment_to_productDetailsFragment"
@@ -31,7 +31,7 @@
     </fragment>
     <fragment
         android:id="@+id/shopFragment"
-        android:name="com.app.chef.ui.fragments.ShopFragment"
+        android:name="com.app.chef.features.notifications.presentation.NotificationsFragment"
         android:label="ShopFragment" >
         <action
             android:id="@+id/action_shopFragment_to_productDetailsFragment"
@@ -43,11 +43,11 @@
     </fragment>
     <fragment
         android:id="@+id/productDetailsFragment"
-        android:name="com.app.chef.ui.fragments.ProductDetailsFragment"
+        android:name="com.app.chef.features.itemdetails.presentation.ProductDetailsFragment"
         android:label="ProductDetailsFragment" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.app.chef.ui.fragments.ProfileFragment"
+        android:name="com.app.chef.features.profile.presentation.ProfileFragment"
         android:label="ProfileFragment" >
         <action
             android:id="@+id/action_profileFragment_to_placeholder"
@@ -56,6 +56,6 @@
     <fragment android:id="@+id/placeholder" />
     <fragment
         android:id="@+id/newItemFragment"
-        android:name="com.app.chef.ui.fragments.NewItemFragment"
+        android:name="com.app.chef.features.dashboard.presentation.screens.NewItemFragment"
         android:label="NewItemFragment" />
 </navigation>

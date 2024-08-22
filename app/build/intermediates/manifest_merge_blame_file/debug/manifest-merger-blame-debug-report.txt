@@ -106,8 +106,8 @@
 56-->D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:32:13-37
 57        <activity
 57-->D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:33:9-35:40
-58            android:name="com.app.chef.MainActivity"
-58-->D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:34:13-41
+58            android:name="com.app.chef.features.dashboard.presentation.MainActivity"
+58-->D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:34:13-73
 59            android:exported="false" />
 59-->D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:35:13-37
 60

@@ -5,7 +5,6 @@ import android.content.Intent
 import android.os.Build
 import android.os.Bundle
 import androidx.viewpager2.widget.ViewPager2
-import com.app.chef.MainActivity
 import com.app.chef.R
 import com.app.chef.features.onboard.presentation.adapter.OnBoardingAdapter
 import com.app.chef.databinding.ActivityOnBoardingBinding
@@ -43,7 +42,7 @@ class OnBoardingsActivity : AppCompatActivity() {
         }
 
         binding.skipBtn.setOnClickListener {
-            startActivity(Intent(applicationContext, MainActivity::class.java))
+            startActivity(Intent(applicationContext, AuthenticationsActivity::class.java))
         }
         binding.nextBtn.setOnClickListener {
             if (binding.onboarding.currentItem == list.lastIndex) {

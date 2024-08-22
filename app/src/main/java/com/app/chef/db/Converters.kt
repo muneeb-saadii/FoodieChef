@@ -1,6 +1,6 @@
 package com.app.chef.db
 
-import com.app.chef.models.products.Rating
+import com.app.chef.features.itemdetails.domain.model.product.Rating
 import androidx.room.TypeConverter
 
 class Converters {

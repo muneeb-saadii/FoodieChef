@@ -161,7 +161,7 @@ public class LayoutDoubleCardLayoutBindingImpl extends LayoutDoubleCardLayoutBin
         if ((dirtyFlags & 0x3L) != 0) {
             // api target 1
 
-            com.app.chef.features.auth.presentation.screen.AdapterBindings.AdapterBindingsKt.setBackgroundColor(this.mboundView1, resGetColorXmlJavaLangStringAppThemeAccent);
+            com.app.chef.core.AdapterBindings.AdapterBindingsKt.setBackgroundColor(this.mboundView1, resGetColorXmlJavaLangStringAppThemeAccent);
         }
     }
     // Listener Stub Implementations

@@ -55,7 +55,7 @@
             android:name="com.app.chef.features.onboard.presentation.OnBoardingsActivity"
             android:exported="false" />
         <activity
-            android:name="com.app.chef.MainActivity"
+            android:name="com.app.chef.features.dashboard.presentation.MainActivity"
             android:exported="false" />
 
         <service

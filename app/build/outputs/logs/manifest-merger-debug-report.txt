@@ -308,12 +308,12 @@ ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidMani
 		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
 		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:31:13-78
-activity#com.app.chef.MainActivity
+activity#com.app.chef.features.dashboard.presentation.MainActivity
 ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:33:9-35:40
 	android:exported
 		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:34:13-41
+		ADDED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml:34:13-73
 uses-sdk
 INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndroidProjects\Kotlin\FoodApp\FoodieChef\app\src\main\AndroidManifest.xml
